@@ -1,0 +1,3 @@
+Mazid,mazid@aiub.edu,1234,Male
+Anik,anik@gmail.com,1234,Male
+Peter,peter@gmail.com,1234,Male
